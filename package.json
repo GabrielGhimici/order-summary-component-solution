@@ -1,0 +1,22 @@
+{
+  "name": "order-summary-component-solution",
+  "version": "1.0.0",
+  "description": "This is a solution to the 'Order summary card' challenge on Frontend Mentor",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielGhimici/order-summary-component-solution.git"
+  },
+  "author": "GabrielGhimici",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GabrielGhimici/order-summary-component-solution/issues"
+  },
+  "homepage": "https://gabrielghimici.github.io/order-summary-component-solution",
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
